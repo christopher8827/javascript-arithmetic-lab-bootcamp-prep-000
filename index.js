@@ -42,3 +42,9 @@ function makeInt(a) {
 }
 
 makeInt(a)
+
+function preserveDecimal(a) {
+  return parseFloat(a)
+}
+
+preserveDecimal(a)
