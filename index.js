@@ -28,4 +28,4 @@ function inc(n) {
   return n++
 }
 
-inc(a)
+inc(n)
