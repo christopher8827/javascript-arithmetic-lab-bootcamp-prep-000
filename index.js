@@ -29,4 +29,3 @@ function inc(a) {
 }
 
 inc(a)
-
