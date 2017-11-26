@@ -23,3 +23,10 @@ function divide(a,b) {
 }
 
 divide(a,b)
+
+function inc(a) {
+  return a++
+}
+
+inc(a)
+
