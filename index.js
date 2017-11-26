@@ -1,3 +1,7 @@
-function beforeEach(a,b) {
+beforeEach()
+
+function addFunction(a,b) {
   return a+b
 }
+
+addFunction(a,b)
