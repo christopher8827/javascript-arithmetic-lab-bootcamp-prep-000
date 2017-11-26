@@ -36,3 +36,9 @@ function dec(a) {
 
 dec(a)
 
+function makeInt('a',10) {
+  parseInt(a)
+}
+
+makeInt(a)
+
