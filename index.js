@@ -37,8 +37,8 @@ function dec(a) {
 dec(a)
 
 
-function makeInt(n) {
-  return parseInt('n',10)
+function makeInt(a) {
+  return parseInt('a',10)
 }
 
-makeInt(n)
+makeInt(a)
