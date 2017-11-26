@@ -24,8 +24,8 @@ function divide(a,b) {
 
 divide(a,b)
 
-function inc(n) {
-  return n++
+function increment(a) {
+  return n+1
 }
 
-inc(n)
+inc(a)
