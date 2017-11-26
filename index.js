@@ -29,3 +29,10 @@ function inc(a) {
 }
 
 inc(a)
+
+function dec(a) {
+  return a-1
+}
+
+dec(a)
+
