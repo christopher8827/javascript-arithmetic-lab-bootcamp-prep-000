@@ -24,7 +24,7 @@ function divide(a,b) {
 
 divide(a,b)
 
-function increment(a) {
+function inc(a) {
   return n+1
 }
 
