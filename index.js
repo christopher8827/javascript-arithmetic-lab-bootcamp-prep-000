@@ -1,6 +1,6 @@
 beforeEach()
 
-function addFunction(a,b) {
+function add(a,b) {
   return a+b
 }
 
