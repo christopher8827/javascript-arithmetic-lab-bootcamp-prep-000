@@ -17,3 +17,9 @@ function multiply(a,b) {
 }
 
 multiply(a,b)
+
+function divide(a,b) {
+  return a/b
+}
+
+divide(a,b)
